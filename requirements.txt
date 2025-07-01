@@ -1,0 +1,4 @@
+obspy
+matplotlip
+numpy
+ipykernel
